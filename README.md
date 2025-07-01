@@ -165,6 +165,3 @@ Coordinates: (22.321499, 70.765699)
 
 ---
 
-## License
-
-This project is open for educational and non-commercial research purposes. Attribution appreciated if reused or modified.
