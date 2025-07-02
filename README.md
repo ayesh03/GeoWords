@@ -164,4 +164,17 @@ Coordinates: (22.321499, 70.765699)
 ```
 
 ---
+## Demo Video
+
+Watch a working demo of the GeoWords CLI tool:
+
+[View on Google Drive](https://drive.google.com/file/d/1hNG2epvMZcSza4WV4g7vFoijVmMTvkSy/view?usp=sharing)
+
+---
+
+## 🖼️ Screenshot
+
+Below is a screenshot of the program in action:
+
+![CLI Screenshot](thumbnail.png)
 
